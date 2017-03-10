@@ -2,18 +2,19 @@
 Presentation du projet devWeb 
  
  
-##Sujet : 
+## Sujet : 
 "http://www.univ-oran1.dz/"
  
  
- ## Cahier des charges
+## Cahier des charges :
 Doc:   https://drive.google.com/open?id=0B1IcqtFWVMxMQnhydTN1ZkdyeHc
 
 
-## Presentation
+## Presentation :
 Slide: https://slides.com/chawkichouib/deck/fullscreen
 
 
+## Licence :
 
 [CHOUIB Chawki](https://github.com/chawki505).
 
